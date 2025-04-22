@@ -16,7 +16,8 @@ Aqui temos um print de uma das aulas sobre Modelo de Responsabilidade Compartilh
 ![image](https://github.com/user-attachments/assets/5cc84e11-f71f-426d-a942-0334c37ba2a7)
 
 Aqui vemos alguns exemplos dos tipos de serviços na nossa realidade:
-![image](https://github.com/user-attachments/assets/96c468eb-a821-4ec2-aff2-c770f10090fa
+
+![image](https://github.com/user-attachments/assets/96c468eb-a821-4ec2-aff2-c770f10090fa) 
 
 Para finalizar gostaria de trazer de modo mais simples e ludico de como podemos explicar os 3 serviços:
 No IaaS, você tem a chave de um parque de diversões e faz tudo do seu jeito, no PaaS, o parque já está pronto, só falta você trazer as suas ideias e deixar do seu jeito, e no SaaS, você só entra e se diverte, sem preocupações com estrutura.
