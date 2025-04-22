@@ -6,7 +6,15 @@ Novamente, me chamo Maria Eduarda, tenho 18 anos e estou muito contente com meu 
 
 Desde a última entrega que fiz aprendi sobre os tipos de serviço em nuvem, temos 3 tipos assim como pode ser observado nos prints que trouxe para esse projeto; Temos o IaaS, PaaS, SaaS de modo geral.
 
-Explicando de modo mais detalhado a IaaS seria a Infraestrutura como serviço, a PaaS a plataforma como serviço e a SaaS como o software de serviço
+Explicando de modo mais detalhado a IaaS seria a Infraestrutura como serviço sendo mais flexível, voce configura e gerencia o hardware para o seu aplicativo, a PaaS a plataforma como serviço, para o desenvolvimento de aplicativo; E a SaaS como o software de serviço, o qual paga conforme o uso, como modelo de assinatura.
+
+Segue a iamgem a baixo:
 
 ![image](https://github.com/user-attachments/assets/8fd3f3b5-f6da-47f8-9cc5-2c2f990ce3d2)
+
+Aqui temos um print de uma das aulas sobre Modelo de Responsabilidade Compartilhada, o qual vemos o que cabe ao cliente, a Microsoft e o que é compartilhado entre ambos
 ![image](https://github.com/user-attachments/assets/5cc84e11-f71f-426d-a942-0334c37ba2a7)
+
+Aqui vemos alguns exemplos dos tipos de serviços na nossa realidade:
+![image](https://github.com/user-attachments/assets/96c468eb-a821-4ec2-aff2-c770f10090fa)
+
